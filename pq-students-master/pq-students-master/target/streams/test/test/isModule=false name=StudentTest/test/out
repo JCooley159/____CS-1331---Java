@@ -1,0 +1,5 @@
+[0m[[31merror[0m] [0mTest [33mStudentTest[0m.[31mgetCreditsTest[0m failed: -10 Student getCredits() returns incorrect value: expected:<10> but was:<6>, took 0.007 sec[0m
+[0m[[31merror[0m] [0mTest [33mStudentTest[0m.[31mgetGPATest[0m failed: -7 Student getGPA returns incorrect value., took 0.001 sec[0m
+[0m[[31merror[0m] [0mTest [33mStudentTest[0m.[31mtoStringTest[0m failed: java.lang.[31mNullPointerException[0m: null, took 0.009 sec[0m
+[0m[[31merror[0m] [0m    at StudentTest.toStringTest([35mStudentTest.java[0m:[33m30[0m)[0m
+[0m[[31merror[0m] [0m    ...[0m

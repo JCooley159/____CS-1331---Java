@@ -1,0 +1,26 @@
+INHERITANCE:
+
+public class Employee {...}            v base/superclass
+public class HourlyEmployee extends Employee {...}
+public class SalariedEmployee extends Employee {...}
+                ^ subclass       ^ keyword
+
+
+Everything implicitly uses Inheritance and "extends" Object (if not otherwise stated)
+
+
+
+*****Constructors have no return type and the name matched the name of the method!*****
+
+
+Ex:
+public class HourlyEmployee extends Employee {
+
+    public HourlyEmployee(String aName, Date aHireDate) {
+        super(aName, aHireDate);  *****calls the superclass*****
+    }
+}
+
+
+If not specified, the compiler will call super(); of Object in any constructor.
+    (it's hidden, and doesn't do anything)

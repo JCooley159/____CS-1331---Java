@@ -1,0 +1,16 @@
+public class Book {
+    //instance variables
+    private String title;
+    private int numPages;
+
+    //constructor
+    public Book(String bookTitle, int pages) {
+        title = bookTitle;
+        numPages = pages;
+    }
+
+    //instance methods
+    public void main changePages(int newPages) {
+        numPages = newPages
+    }
+}

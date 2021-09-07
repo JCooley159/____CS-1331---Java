@@ -1,0 +1,38 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\Animal.java, C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\NoSuchUserException.java, C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\UserDao.java, C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\Zoo.java)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\Animal.java, C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\NoSuchUserException.java, C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\UserDao.java, C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\Zoo.java)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\Animal.java, C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\NoSuchUserException.java, C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\UserDao.java, C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\Zoo.java)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 4 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 4 Java sources to C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\target\scala-2.10\classes...[0m
+[0m[[31merror[0m] [0mC:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\NoSuchUserException.java:7:  error: <identifier> expected[0m
+[0m[[31merror[0m] [0m    public NoSuchUserException {[0m
+[0m[[31merror[0m] [0m                              ^[0m
+[0m[[31merror[0m] [0mC:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\NoSuchUserException.java:8:  error: illegal start of type[0m
+[0m[[31merror[0m] [0m        super();[0m
+[0m[[31merror[0m] [0m        ^[0m
+[0m[[31merror[0m] [0mC:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\NoSuchUserException.java:8:  error: <identifier> expected[0m
+[0m[[31merror[0m] [0m        super();[0m
+[0m[[31merror[0m] [0m             ^[0m
+[0m[[31merror[0m] [0mC:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\NoSuchUserException.java:8:  error: ';' expected[0m
+[0m[[31merror[0m] [0m        super();[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mC:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\NoSuchUserException.java:11:  error: class, interface, or enum expected[0m
+[0m[[31merror[0m] [0m}[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0mC:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\Zoo.java:23:  error: illegal start of expression[0m
+[0m[[31merror[0m] [0m        public Set<Animal> animalSet;[0m
+[0m[[31merror[0m] [0m        ^[0m
+[0m[[31merror[0m] [0mC:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\Zoo.java:31:  error: illegal start of expression[0m
+[0m[[31merror[0m] [0m        public Map<Animal, Integer> animalCounts;[0m
+[0m[[31merror[0m] [0m        ^[0m

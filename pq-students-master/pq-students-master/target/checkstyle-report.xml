@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.5">
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-students-master\pq-students-master\src\main\java\Course.class">
+<error line="2" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-students-master\pq-students-master\src\main\java\Course.java">
+<error line="8" column="24" severity="error" message="&apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-students-master\pq-students-master\src\main\java\Student.class">
+<error line="2" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="2" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-students-master\pq-students-master\src\main\java\Student.java">
+<error line="13" column="12" severity="error" message="&apos;for&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+</checkstyle>

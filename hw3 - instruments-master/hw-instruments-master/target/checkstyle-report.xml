@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.5">
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Brass.class">
+<error line="2" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Brass.java">
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Gong.class">
+<error line="6" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="14" column="13" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Gong.java">
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Guitar.class">
+<error line="7" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="12" column="8" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Guitar.java">
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Instrument.class">
+<error line="2" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Instrument.java">
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\InstrumentNotFoundException.class">
+<error line="2" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="5" column="55" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="9" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\InstrumentNotFoundException.java">
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\LastInstrumentException.class">
+<error line="2" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="5" column="51" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="9" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\LastInstrumentException.java">
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Musician.class">
+<error line="2" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Musician.java">
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\MusicStore$1.class">
+<error line="1" column="11" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\MusicStore.class">
+<error line="11" column="6" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\MusicStore.java">
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\NotEnoughFundsException.class">
+<error line="2" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="5" column="51" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="9" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\NotEnoughFundsException.java">
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Oboe.class">
+<error line="6" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="14" column="13" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Oboe.java">
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Percussion.class">
+<error line="2" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Percussion.java">
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\SameInstrumentException.class">
+<error line="2" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="5" column="51" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="9" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\SameInstrumentException.java">
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Stringed.class">
+<error line="2" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Stringed.java">
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Trombone.class">
+<error line="7" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="13" column="8" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Trombone.java">
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Woodwind.class">
+<error line="2" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\hw3 - instruments-master\hw-instruments-master\src\main\java\Woodwind.java">
+</file>
+</checkstyle>

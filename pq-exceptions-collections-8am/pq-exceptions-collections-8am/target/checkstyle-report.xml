@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.5">
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\Animal.java">
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\NoSuchUserException.java">
+<error line="0" severity="error" message="Got an exception - expecting EOF, found &apos;}&apos;" source="com.puppycrawl.tools.checkstyle.TreeWalker"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\UserDao.java">
+<error line="9" severity="error" message="Line is longer than 80 characters (found 94)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="C:\Users\Jeremy6\Documents\GA Tech\____CS 1331\pq-exceptions-collections-8am\pq-exceptions-collections-8am\src\main\java\Zoo.java">
+<error line="1" column="8" severity="error" message="Unused import - java.util.Arrays." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+</checkstyle>
